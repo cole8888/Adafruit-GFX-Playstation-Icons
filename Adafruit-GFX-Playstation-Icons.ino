@@ -75,7 +75,6 @@ void setup() {
   printPlaystationSymbol(DPAD_RIGHT_BUTTON_ICON);
   printPlaystationSymbol(DPAD_DOWN_BUTTON_ICON);
   printPlaystationSymbol(DPAD_LEFT_BUTTON_ICON);
-  printPlaystationSymbol(DPAD_LEFT_BUTTON_ICON);
   printPlaystationSymbol(DPAD_NONE_BUTTON_ICON);
 
   display.display();
