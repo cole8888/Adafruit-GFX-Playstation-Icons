@@ -154,7 +154,7 @@ const GFXglyph PlaystationButtonSymbolsGlyphs[] PROGMEM = {
 const GFXfont PlaystationButtonSymbols PROGMEM = {
   (uint8_t *)PlaystationButtonSymbolsBitmaps,
   (GFXglyph *)PlaystationButtonSymbolsGlyphs,
-  0, 9, 11  //ASCII start, ASCII stop, Y Advance
+  0, 9, 12  //ASCII start, ASCII stop, Y Advance
 };
 
 enum PS_SYMBOLS {
